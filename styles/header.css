@@ -47,3 +47,8 @@
   background-color: var(--branco);
   color: var(--laranja);
 }
+
+.container__botao
+ {
+  display: none;
+}
