@@ -52,13 +52,13 @@
     padding: 1em;
 }
 
-.descrição__título
+.descrição_titulo
 {
     color: var(--laranja);
     font-weight: 700;
 }
 
-.descrição__título-livro
+.descrição_titulo-livro
 {
     color: var(--azul);
     font-size: 18px;
